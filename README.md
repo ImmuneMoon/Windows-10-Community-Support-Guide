@@ -29,7 +29,7 @@ This guide works alongside four others:
 
 <!-- guide:start -->
 
-*Support dates, prices, and details of third-party builds were checked in October 2026. They change, so confirm them before you rely on them.*
+*Support dates, prices, and details of third-party builds change, so confirm them before you rely on them.*
 
 ## The Problem
 You want to stay on Windows 10 instead of moving to Windows 11, and you'd like the support of a community rather than relying on Microsoft alone. Searching for that turns up "lite" builds such as [Windows X-Lite](https://windowsxlite.com/win10), which promise a smaller, faster Windows. Those aren't the same thing as community support, and they cost more than they first appear to.
