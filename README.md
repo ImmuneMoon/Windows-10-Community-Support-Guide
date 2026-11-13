@@ -19,10 +19,11 @@ This guide isn't legal or security advice, and it doesn't accuse any project of 
 ## 🚀 How to Use
 Download the PDF above, or read on below. Start with **The Short Answer**.
 
-This guide works alongside three others:
+This guide works alongside four others:
 * [Windows Install Guide](https://github.com/ImmuneMoon/Windows-Install-Guide) - Making a bootable USB drive and installing Windows.
 * [Remove an Old Windows Install and Keep Your Files](https://github.com/ImmuneMoon/Remove-Old-Windows-Install-Keep-Your-Files) - Clearing the old install off your previous drive afterward.
 * [Linux Install Guide](https://github.com/ImmuneMoon/Linux-Install-Guide) - Trying and installing Linux, the option with a real community behind it.
+* [Fix Stuck Windows Update Prompts](https://github.com/ImmuneMoon/Fix-Stuck-Windows-Update-Prompts#phase-4-finish-setting-up-screens-and-the-windows-11-upgrade-offer) - Handling the Windows 11 upgrade offer, end-of-support notices, and update reminders that won't go away.
 
 ---
 
